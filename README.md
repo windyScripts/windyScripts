@@ -122,7 +122,7 @@ connection and collaboration on the developers and their needs.</p>
       <h3 align="center">Meetup tracker</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="images/meetup.jpeg" width="100%" alt="Meetup demo"/>
+            <img src="images/meetup.jpg" width="100%" alt="Meetup demo"/>
         </a>
         <br />
         <p align="center">
