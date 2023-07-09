@@ -1,13 +1,13 @@
 <h1 align="center">Hiya! 👋, I'm Aravind Shenoy</h1>
 <h3 align="center">A full stack software engineer from India</h3>
 
-<p align="center">- 🔭 I’m currently working on <a href="[https://github.com/intelagense/Together](https://github.com/timmyichen/dev-directory)" target="blank">**PairUp**</a> alongside some personal projects</p>
+<p align="center"> 🔭 I’m currently working on <a href="https://github.com/timmyichen/dev-directory" target="_blank"><strong>PairUp</strong></a> alongside some personal projects</p>
 
-<p align="center">- 🌱 I’m currently learning **NextJS**</p>
+<p align="center"> 🌱 I’m currently learning <strong>NextJS</strong></p>
 
-<p align="center">- 💬 Ask me about **JavaScript, Typescript**</p>
+<p align="center"> 💬 Ask me about <strong>JavaScript</strong>, <strong>Typescript</strong></p>
 
-<p align="center">- ⚡ Fun fact **I enjoy drinking plain milk**</p>
+<p align="center"> ⚡ Fun fact <strong>I enjoy drinking plain milk</strong></p>
 
 <br>
 
@@ -25,8 +25,8 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
  
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -115,7 +115,7 @@ upcoming mobile support. Tested on AWS.</p>
           </a>
       </p>
       <p><strong align="center">React, Material UI, TailwindCSS || Node, Express, Next.js, PostgreSQL, Sequelize ORM ||
-ESLint, Docker, Heroku || Jest, Cypress</strong> Software development is a collective endeavor at every phase, from planning, development, testing, maintenance to eventual migration. PairUp is a platform for the members of the 40,000 strong 100Devs community aimed at centering the focus of
+ESLint, Docker, Heroku || Jest, Cypress</strong>PairUp is a platform for the members of the 40,000 strong 100Devs community aimed at centering the focus of
 connection and collaboration on the developers and their needs.</p>
     </td>
     <td width="50%" valign="top">
