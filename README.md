@@ -63,7 +63,7 @@
       <h3 align="center">Chatter</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="images/chatter.jpg" width="100%" alt="Chatter demo"/>
+            <img src="images/Chatter.jpg" width="100%" alt="Chatter demo"/>
         </a>
         <br />
         <p align="center">
