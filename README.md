@@ -11,7 +11,6 @@
 
 <br>
 
-
 <h2 align="center">About Me </h2>
 
 <p align="center">🌐 Globe Theatre Shakespeare aficionado.</p>
@@ -105,7 +104,7 @@ upcoming mobile support. Tested on AWS.</p>
       <h3 align="center">ExpensePal</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="images/expensepal.jpg" width="100%"  alt="ExpensePal demo"/>
+            <img src="images/ExpensePal.png" width="100%"  alt="ExpensePal demo"/>
         </a>
         <br />
         <p align="center">
