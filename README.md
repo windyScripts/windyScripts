@@ -125,7 +125,7 @@ upcoming mobile support. Tested on AWS.</p>
       <h3 align="center">PairUp</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="images/pairup.jpeg" width="100%"  alt="PairUp demo"/>
+            <img src="images/pairup.png" width="100%"  alt="PairUp demo"/>
         </a>
         <br />
         <p align="center">
