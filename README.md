@@ -13,9 +13,11 @@
 
 <h2 align="center">About Me </h2>
 
-<p align="center">* Mangostein enthusiast</p>
-<p align="center">* Globe Theatre Shakespeare aficionado</p>
+<p align="center">* Globe Theatre Shakespeare aficionado.</p>
+
 <p align="center">* Likes picking up tech by using it.  </p>
+
+<p align="center">* Praises the Sun!  </p>
 
 <br>
 
