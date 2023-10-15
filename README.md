@@ -80,6 +80,25 @@
 <table bordercolor="#66b2b2">
 
   <tr>
+   <td width="50%" valign="top">
+      <h3 align="center">PairUp</h3>
+        <br />
+        <a target="_blank" href="#">
+            <img src="images/pairup.png" width="100%"  alt="PairUp demo"/>
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/timmyichen/dev-directory" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>  
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+      </p>
+      <p><strong align="center">React, Material UI, TailwindCSS || Node, Express, Next.js, PostgreSQL, Sequelize ORM ||
+ESLint, Docker, Heroku || Jest, Cypress</strong>PairUp is a platform for the members of the 40,000 strong 100Devs community aimed at centering the focus of
+connection and collaboration on the developers and their needs.</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">Chatter</h3>
         <br />
@@ -100,7 +119,11 @@ real-time or asynchronous. Optimized using local storage to minimize database lo
 Responsive across device resolutions ranging from tablets to personal computers with
 upcoming mobile support. Tested on AWS.</p>
     </td>
-    <td width="50%" valign="top">
+    
+  </tr>
+
+  <tr>
+<td width="50%" valign="top">
       <h3 align="center">ExpensePal</h3>
         <br />
         <a target="_blank" href="#">
@@ -116,28 +139,6 @@ upcoming mobile support. Tested on AWS.</p>
           </a>
       </p>
       <p><strong align="center">Bootstrap, CSS || MongoDB, Mongoose ODM, Nodejs, Express || ESLint</strong> A one stop solution for documenting expenses, easily retreiving periodic records and prospectively linking accounts for collective records. Upcoming mobile support. Tested on AWS. </p>
-    </td>
-  </tr>
-
-  <tr>
-<td width="50%" valign="top">
-      <h3 align="center">PairUp</h3>
-        <br />
-        <a target="_blank" href="#">
-            <img src="images/pairup.png" width="100%"  alt="PairUp demo"/>
-        </a>
-        <br />
-        <p align="center">
-          <a href="https://github.com/timmyichen/dev-directory" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-          </a>  
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-          </a>
-      </p>
-      <p><strong align="center">React, Material UI, TailwindCSS || Node, Express, Next.js, PostgreSQL, Sequelize ORM ||
-ESLint, Docker, Heroku || Jest, Cypress</strong>PairUp is a platform for the members of the 40,000 strong 100Devs community aimed at centering the focus of
-connection and collaboration on the developers and their needs.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Meetup tracker</h3>
