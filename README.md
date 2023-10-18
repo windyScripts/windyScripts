@@ -5,19 +5,7 @@
 
 <p align="center"> 🌱 I’m currently learning <strong>NextJS</strong></p>
 
-<p align="center"> 💬 Ask me about <strong>JavaScript</strong>, <strong>Typescript</strong></p>
-
-<p align="center"> ⚡ Fun fact <strong>I enjoy drinking plain milk</strong></p>
-
-<br>
-
-<h2 align="center">About Me </h2>
-
-<p align="center">🌐 Globe Theatre Shakespeare aficionado.</p>
-
-<p align="center">📡 Likes picking up tech by using it.  </p>
-
-<p align="center"><img style="height:16px;width:16px" src="https://github.com/windyScripts/windyScripts/assets/75222342/0ff7f74c-ae1d-40ae-9dd2-9ceaa2515f8f"> Praises the Sun!  </p>
+<p align="center"> 💬 Ask me about <strong>JavaScript</strong>, <strong>Typescript</strong></p
 
 <br>
 
