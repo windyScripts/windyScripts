@@ -3,9 +3,9 @@
 
 <p align="center"> 🔭 I’m currently working on <a href="https://github.com/timmyichen/dev-directory" target="_blank"><strong>PairUp</strong></a> alongside some personal projects</p>
 
-<p align="center"> 🌱 I’m currently learning <strong>NextJS</strong></p>
+<p align="center"> 🌱 I’m currently working on <strong>Golang</strong></p>
 
-<p align="center"> 💬 Ask me about <strong>JavaScript</strong>, <strong>Typescript</strong></p
+<p align="center"> 💬 Ask me about <strong>Golang</strong>, <strong>Typescript</strong></p
 
 <br>
 
