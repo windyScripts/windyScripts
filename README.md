@@ -1,7 +1,7 @@
 <h1 align="center">Hiya! 👋, I'm Aravind Shenoy</h1>
 <h3 align="center">A full stack software engineer from India</h3>
 
-<p align="center"> 🔭 I’m currently working on <a href="https://github.com/timmyichen/dev-directory" target="_blank"><strong>PairUp</strong></a> alongside some personal projects</p>
+<p align="center"> 🔭 I’m currently working at Idea Clan on FabFunnel and personal projects</p>
 
 <p align="center"> 🌱 I’m currently working on <strong>Golang</strong></p>
 
